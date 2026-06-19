@@ -1,0 +1,2 @@
+# Emotion-Prediction-and-Wellness-Recommender
+Emotion Detector &amp; Wellness Recommender is an AI-powered web application built with Streamlit that analyzes the emotional tone of a user's text and responds with personalized wellness support.It bridges the gap between emotional awareness and actionable self-care by combining natural language understanding with culturally rich music recommendations
