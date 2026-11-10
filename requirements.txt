@@ -1,3 +1,7 @@
-streamlit
-huggingface_hub
+streamlit>=1.40
+groq
+transformers
+torch
+Pillow
+pandas
 python-dotenv
